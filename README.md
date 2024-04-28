@@ -10,14 +10,14 @@ Write a program which reads from the user three non-negative integers and then p
 
 For example, for numbers 3, 1 and 8 the result should look like this:  
 
-  *  
-  *  
-  *  
-  *  
-  *  
-* *  
-* *  
-***  
+  *\  
+  *\ 
+  *\  
+  *\ 
+  *\ 
+*\  *\   
+*\  *\   
+*\ *\ *\  
   
 Do not use arrays, strings or any other kind of collections.  
 
